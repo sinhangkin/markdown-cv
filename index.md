@@ -11,7 +11,7 @@ title: 冼行健 CV
 </div>
 
 
-## 當前
+## Currently
 
 立法會圖書館
 
@@ -25,9 +25,23 @@ title: 冼行健 CV
 `2000-今`
 __立法會圖書館.__
 
+`1996-1999`
+__澳門圖書館暨資訊管理協會__
+
+`1991-1996`
+__澳門中央圖書館__
+
+`1990-1991`
+__澳門PIC__
+
+`1986-1987`
+__澳門激成集團__
+
+`1985-1986`
+__澳門PIC__
 
 
-## 學歷
+## Education
 
 `1654-1660`
 __The King's School, Grantham.__
@@ -42,27 +56,6 @@ __Trinity College, Cambridge__
 
 - Fellow
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
- 
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
