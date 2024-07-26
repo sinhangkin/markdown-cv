@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: 冼行健 CV
 ---
 # 冼行健
 圖書館員，立法會輔助部門高級技術員
@@ -15,6 +15,7 @@ title: Isaac Newtons's CV
 
 立法會圖書館
 
+
 ### Specialized in
 
 邏輯，道德經 
@@ -23,71 +24,39 @@ title: Isaac Newtons's CV
 ### 工作經歷
 
 `2000-今`
-__立法會圖書館.__
+__立法會圖書館__
+
+`1996-1999`
+__澳門圖書館暨資訊管理協會__
+
+`1991-1996`
+__澳門中央圖書館__
+
+`1990-1991`
+__澳門PIC__
+
+`1986-1987`
+__澳門激成集團__
+
+`1985-1986`
+__澳門PIC__
 
 
+## 學歷 
 
-## 學歷
+`1987-1990`
+__暨南大學__
 
-`1654-1660`
-__The King's School, Grantham.__
+- 碩士
+ 
+`1981-1985`
+__暨南大學__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- 計算機科學學士
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2024  -->
 
 
