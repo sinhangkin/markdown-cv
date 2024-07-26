@@ -43,20 +43,14 @@ __澳門PIC__
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1987-1990`
+__暨南大學.__
+- 碩士
+ 
+`1981-1985`
+__暨南大學__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+- 計算機科學學士
 
 
 <!-- ### Footer
